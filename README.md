@@ -8,6 +8,7 @@
 
 # Others:
  <br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50"/>
+ ![Snake animation](https://github.com/gordeusbraga/gordeusbraga/blob/output/github-contribution-grid-snake.svg)
           
           
           
